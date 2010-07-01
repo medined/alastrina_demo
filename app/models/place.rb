@@ -1,3 +1,3 @@
 class Place < ActiveRecord::Base
-  alastrina
+  alastrina :twitter => { :username => 'alastrina_gem', :password => 'QQQQQQ' }
 end
